@@ -1,7 +1,7 @@
 <h1 id="docker-setup">Docker Setup</h1>
 <p>For Reference: <a href="https://docs.docker.com/engine/install/ubuntu/">https://docs.docker.com/engine/install/ubuntu/</a></p>
 <ul>
-<li>Setup docker on your ubuntu PC
+<li>Setup docker on your Ubuntu PC
 <ul>
 <li>
 <p>Create file type “nano  <a href="http://docker-setup.sh">docker-setup.sh</a>”</p>
@@ -34,10 +34,13 @@
 </code></pre>
 </li>
 <li>
-<p>run chmod 777 -R  for readable, writable and executable by all user</p>
+<p>run chmod 777 -R  example “chmod 777 -R &lt;<a href="http://docker-setup.sh">docker-setup.sh</a>&gt;”  for readable, writable, and executable by all user</p>
 </li>
 <li>
-<p>run shell scrip ./docker-setup.sh</p>
+<p>Check the text if it’s green meaning can run the shell script</p>
+</li>
+<li>
+<p>run shell scripts “./docker-setup.sh”</p>
 </li>
 </ul>
 </li>
