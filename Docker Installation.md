@@ -34,7 +34,10 @@
 </code></pre>
 </li>
 <li>
-<p>run chmod 777 -R    example “chmod 777 -R &lt;<a href="http://docker-setup.sh">docker-setup.sh</a>&gt;”  for readable, writable, and executable by all user</p>
+<p>run chmod 777 -R  (filename)</p>
+<ul>
+<li>example “chmod 777 -R &lt;<a href="http://docker-setup.sh">docker-setup.sh</a>&gt;”  for readable, writable, and executable by all user</li>
+</ul>
 </li>
 <li>
 <p>Check the text if it’s green meaning can run the shell script</p>
