@@ -1,7 +1,7 @@
 <h1 id="docker-setup">Docker Setup</h1>
 <p>For Reference: <a href="https://docs.docker.com/engine/install/ubuntu/">https://docs.docker.com/engine/install/ubuntu/</a></p>
 <ul>
-<li>Create .sh file
+<li>Setup docker on your ubuntu PC
 <ul>
 <li>
 <p>nano  <a href="http://docker-setup.sh">docker-setup.sh</a></p>
