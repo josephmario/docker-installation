@@ -4,7 +4,7 @@
 <li>Setup docker on your ubuntu PC
 <ul>
 <li>
-<p>nano  <a href="http://docker-setup.sh">docker-setup.sh</a></p>
+<p>Create file type “nano  <a href="http://docker-setup.sh">docker-setup.sh</a>”</p>
 </li>
 <li>
 <p>copy and paste it in docker-setup.sh`#!/bin/bash</p>
