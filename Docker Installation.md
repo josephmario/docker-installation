@@ -36,6 +36,9 @@
 <li>
 <p>run chmod 777 -R  for readable, writable and executable by all user</p>
 </li>
+<li>
+<p>run shell scrip ./docker-setup.sh</p>
+</li>
 </ul>
 </li>
 </ul>
